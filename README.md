@@ -1,3 +1,4 @@
+
 # Solid -java
 
 By following these Solid principles, you create more flexible, maintainable code. They encourage clean
@@ -26,3 +27,6 @@ Clients should not be forced to implement interfaces they do not use.
 
 High-level modules should not depend on low - level modules. Both should depend on
 abstractions(interfaces)
+
+## 6.SolidPrinciples
+
