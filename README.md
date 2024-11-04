@@ -28,5 +28,3 @@ Clients should not be forced to implement interfaces they do not use.
 High-level modules should not depend on low - level modules. Both should depend on
 abstractions(interfaces)
 
-## 6.SolidPrinciples
-
