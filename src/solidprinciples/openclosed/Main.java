@@ -13,7 +13,7 @@ public class Main {
 
     public class Main {
 
-    public void calculate(Report report) {
+    public void report(Report report) {
 
         if (report instanceof IncomeReport) {
             IncomeReport income = (IncomeReport) report;
